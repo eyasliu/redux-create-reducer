@@ -4,7 +4,7 @@
  * @param  {obj} actions    操作
  * @return {reducer}        redux可使用的reducer
  */
-export function createReducerCurry(initState = {}){
+export default function createReducer(initState = {}){
   return (actions = {}) => (state = initState, action) => actions.hasOwnProperty(action.type) ? 
     actions[action.type].apply(undefined, [state, action]) : state
 }
