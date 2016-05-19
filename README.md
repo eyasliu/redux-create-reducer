@@ -1,8 +1,14 @@
-# redux-create-reucer
+# redux-create-reucer-curry
 
 [![Build Status](https://travis-ci.org/eyasliu/redux-create-reducer.svg?branch=master)](https://travis-ci.org/eyasliu/redux-create-reducer)
 
-create reducer with fast, save, readability
+create fast, save, readability reducer with fp curry
+
+# install
+
+```
+npm i -S redux-create-reducer-curry
+```
 
 # API
 

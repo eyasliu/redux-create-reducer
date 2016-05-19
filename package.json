@@ -1,5 +1,5 @@
 {
-  "name": "redux-create-reducer",
+  "name": "redux-create-reducer-curry",
   "version": "1.0.0",
   "description": "create fast, save, readability reducer",
   "main": "lib/index.js",
