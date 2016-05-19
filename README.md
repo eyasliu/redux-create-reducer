@@ -1,5 +1,7 @@
 # redux-create-reucer
 
+[![Build Status](https://travis-ci.org/eyasliu/redux-create-reducer.svg?branch=master)](https://travis-ci.org/eyasliu/redux-create-reducer)
+
 create reducer with fast, save, readability
 
 # API
