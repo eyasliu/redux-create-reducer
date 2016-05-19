@@ -6,19 +6,19 @@ create reducer with fast, save, readability
 
 # API
 
-## createReducer(initState)(actions)
+## createReducer([initState: any])([actions: obj])
 
-- initState [any]
+- initState
   + default: {}
   + reducer init state
-- actions [object]
+- actions 
   + default: {}
   + a plain obj with function for action
     - key is action type, val is action to change reducer
     - function: (state, action) => {}
       * state: the reducer state
       * action: the action
-- @return reducer
+- @return reducer function
   + reducer for redux
 
 # usage
