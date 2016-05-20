@@ -1,4 +1,4 @@
-# redux-create-reucer-curry
+# redux-create-reducer-curry
 
 [![Build Status](https://travis-ci.org/eyasliu/redux-create-reducer.svg?branch=master)](https://travis-ci.org/eyasliu/redux-create-reducer)
 
